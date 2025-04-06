@@ -9,7 +9,7 @@ Sou estudante de programação { Python e HTML }
 #Telegram: https://t.me/gnu23
 
 
-#Bot que estou a desenvolver: https://t.me/nutribot23
+#Bot que estou a desenvolver: https://t.me/Raposa_AI_Bot > Um bot que utiliza inteligência artificial GPT-4o 🧠 💪 🦊
 
 
 #Facebook: https://www.facebook.com/share/1AKaYB8VJH/
